@@ -1,0 +1,5 @@
+Deberia haber un registrador, o un ente que se encargue de managear los datos de los ususarios.
+Para que pueda por ejemplo chequear la cantidad de usuarios con ese nombre, etc. Esa no es responsabilidad del user.
+
+Chequear que se pueda crear un usuario y que tenga name y nickname.
+para eso necesito un registro de usuarios, una DB. Y que de ahi se chequee que no puedan haber dos iguales.
